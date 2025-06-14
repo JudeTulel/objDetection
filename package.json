@@ -1,0 +1,14 @@
+{
+  "name": "objectdetection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "python -m streamlit run frontend/ui.py",
+    "install": "pip install -r requirements.txt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

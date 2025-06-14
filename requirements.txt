@@ -1,0 +1,8 @@
+opencv-python
+numpy
+matplotlib
+torch
+torchvision
+Pillow
+onnxruntime
+streamlit
